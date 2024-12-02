@@ -25,10 +25,7 @@ import java.sql.PreparedStatement;
 import java.text.SimpleDateFormat;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Chiru
- */
+
 public class GenerateReport extends javax.swing.JFrame {
 
     /**
