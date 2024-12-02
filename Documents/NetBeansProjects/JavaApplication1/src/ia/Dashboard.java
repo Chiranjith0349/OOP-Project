@@ -18,10 +18,7 @@ import java.util.function.Function;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Chiru
- */
+
 public class Dashboard extends javax.swing.JFrame {
     
     public Dashboard() {
