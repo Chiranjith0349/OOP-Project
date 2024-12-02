@@ -14,10 +14,7 @@ import java.text.SimpleDateFormat;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-/**
- *
- * @author Chiru
- */
+
 public class EditEmployee extends javax.swing.JFrame {
 
     public EditEmployee(String id) {
