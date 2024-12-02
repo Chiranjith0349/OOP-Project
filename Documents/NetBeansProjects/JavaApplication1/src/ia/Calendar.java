@@ -23,10 +23,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Chiru
- */
+
 public class Calendar extends javax.swing.JFrame {
 
     public Calendar() {
