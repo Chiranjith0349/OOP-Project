@@ -13,10 +13,7 @@ import java.sql.Statement;
 import java.text.SimpleDateFormat;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Chiru
- */
+
 public class ScheduleEvent extends javax.swing.JFrame {
 
     public ScheduleEvent() {
