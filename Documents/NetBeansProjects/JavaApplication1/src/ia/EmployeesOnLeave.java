@@ -17,10 +17,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import java.sql.PreparedStatement;
 
-/**
- *
- * @author Chiru
- */
+
 public class EmployeesOnLeave extends javax.swing.JFrame {
 
     @SuppressWarnings("empty-statement")
