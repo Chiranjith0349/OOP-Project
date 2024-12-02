@@ -17,10 +17,7 @@ import java.util.logging.Logger;
 import javax.swing.JFrame;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Chiru
- */
+
 public class Payroll extends javax.swing.JFrame {
 
     public Payroll() {
