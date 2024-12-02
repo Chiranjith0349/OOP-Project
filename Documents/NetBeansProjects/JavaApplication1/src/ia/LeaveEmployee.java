@@ -11,10 +11,7 @@ import java.sql.SQLException;
 import java.text.SimpleDateFormat;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Chiru
- */
+
 public class LeaveEmployee extends javax.swing.JFrame {
 
     /**
