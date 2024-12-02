@@ -18,10 +18,7 @@ import java.sql.PreparedStatement;
 import java.text.SimpleDateFormat;
 import javax.swing.SwingUtilities;
 import java.sql.ResultSet;
-/**
- *
- * @author Chiru
- */
+
     public class AddEmployee extends javax.swing.JFrame {
        void my_db_update(String str1,String str2,String str3,String str4,String str5,String str6,String str7,String str8, String str9 ){
   
