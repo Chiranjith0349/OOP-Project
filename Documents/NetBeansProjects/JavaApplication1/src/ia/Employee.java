@@ -22,10 +22,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFrame;
 
-/**
- *
- * @author Chiru
- */
+
 public class Employee extends javax.swing.JFrame{
 
     public Employee() {
