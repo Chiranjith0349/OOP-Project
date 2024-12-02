@@ -13,10 +13,7 @@ import java.sql.SQLException;
 import java.text.SimpleDateFormat;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Chiru
- */
+
 public class SchedulePayroll extends javax.swing.JFrame {
 
     public SchedulePayroll() {
