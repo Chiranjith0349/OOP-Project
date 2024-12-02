@@ -16,10 +16,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 
-/**
- *+++++
- * @author Chiru
- */
+
 public class Salary extends javax.swing.JFrame {
 
     public Salary() throws SQLException {
